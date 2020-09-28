@@ -85,6 +85,7 @@ main {
 .card-image {
   transition: all .5s;
   height: 60%;
+  overflow: hidden;
 }
 
 .card-image:hover {
